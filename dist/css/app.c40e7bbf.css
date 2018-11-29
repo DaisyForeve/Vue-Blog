@@ -113,7 +113,9 @@ h1 {
     padding: 20px 15px 20px 15px;
     background-color: #eee;
     margin: 30px auto 30px;
-    text-indent: 2em
+    text-indent: 2em;
+    word-wrap: break-word;
+    word-break: normal;
 }
 
 .search {
